@@ -10,7 +10,9 @@ Advanced Computer Vision LAB, National Cheng Kung University
 
 ## Overview
 
-Coming Soon. 
+However, one particular issue lies with facial images being mis-detected, often originating from degraded videos or adversarial attacks, leading to unexpected temporal artifacts that can undermine the efficacy of DeepFake video detection techniques. This paper introduces a novel method for robust DeepFake video detection, harnessing the power of the proposed Graph-Regularized Attentive Convolutional Entanglement (GRACE) based on the graph convolutional network with graph Laplacian to address the aforementioned challenges.
+
+
 
 
 
