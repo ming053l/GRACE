@@ -41,7 +41,11 @@ pip install -r requirements.txt
 
 ## How to Train
 
+coming soon...
+
 ## How to Test
+
+coming soon...
 
 ## Citations
 
