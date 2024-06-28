@@ -4,7 +4,7 @@ The pytorch implementation of "GRACE: Graph-Regularized Attentive Convolutional 
 
 ## [[Paper Link (arXiv)]](https://arxiv.org/abs/2404.15781)
 
-[Chih-Chung Hsu](https://cchsu.info/), Shao-Ning Chen, Mei-Hsuan Wu, Yi-Fang Wang, [Chia-Ming Lee](https://ming053l.github.io/), Guan-Lin Chen, [Yi-Shiuan Chou](https://nelly0421.github.io/)
+[Chih-Chung Hsu](https://cchsu.info/), Shao-Ning Chen, Mei-Hsuan Wu, Yi-Fang Wang, [Chia-Ming Lee](https://ming053l.github.io/), [Yi-Shiuan Chou](https://nelly0421.github.io/)
 
 Advanced Computer Vision LAB, National Cheng Kung University
 
