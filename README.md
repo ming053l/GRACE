@@ -15,7 +15,30 @@ However, one particular issue lies with facial images being mis-detected, often 
 <img src=".\figures\face_detection.png" width="800"/>
 <img src=".\figures\interpretive_real.png" width="400"/><img src=".\figures\interpretive_fake.png" width="400"/>
 
+## Environment
 
+- [PyTorch >= 1.7](https://pytorch.org/)
+- CUDA >= 11.2
+- python==3.8.18
+- pytorch==1.11.0 
+- cudatoolkit=11.3 
+- onnx==1.14.1
+- onnxruntime==1.16.1
+
+### Installation
+```
+git clone https://github.com/ming053l/GRACE.git
+conda create --name grace python=3.8 -y
+conda activate grace
+# CUDA 11.3
+conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
+cd GRACE
+pip install -r requirements.txt
+```
+
+## How to Train
+
+## How to Test
 
 ## Citations
 
