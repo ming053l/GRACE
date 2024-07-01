@@ -2,7 +2,7 @@
 
 The official pytorch implementation of "GRACE: Graph-Regularized Attentive Convolutional Entanglement with Laplacian Smoothing for Robust DeepFake Video Detection". Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2024).
 
-## [[Paper Link (arXiv)]](https://arxiv.org/abs/2404.15781)
+## [[Paper Link (arXiv)]](https://arxiv.org/pdf/2406.19941v1)
 
 [Chih-Chung Hsu](https://cchsu.info/), Shao-Ning Chen, Mei-Hsuan Wu, Yi-Fang Wang, [Chia-Ming Lee](https://ming053l.github.io/), [Yi-Shiuan Chou](https://nelly0421.github.io/)
 
@@ -53,6 +53,15 @@ If our work is helpful to your reaearch, please kindly cite our work. Thank!
 
 #### BibTeX
 
+    @misc{hsu2024gracegraphregularizedattentiveconvolutional,
+          title={GRACE: Graph-Regularized Attentive Convolutional Entanglement with Laplacian Smoothing for Robust DeepFake Video Detection}, 
+          author={Chih-Chung Hsu and Shao-Ning Chen and Mei-Hsuan Wu and Yi-Fang Wang and Chia-Ming Lee and Yi-Shiuan Chou},
+          year={2024},
+          eprint={2406.19941},
+          archivePrefix={arXiv},
+          primaryClass={cs.CV},
+          url={https://arxiv.org/abs/2406.19941}, 
+    }
 
 ## Contact
 If you have any question, please email zuw408421476@gmail.com to discuss with the author.
