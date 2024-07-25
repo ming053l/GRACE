@@ -18,6 +18,10 @@ This paper introduces a novel method for robust DeepFake video detection, harnes
 
 <img src=".\figures\GRACE.png" width="800"/>
 
+## Todo List
+- 💪 GRACE is already under major revision.
+- Release model and training scripts.
+
 ## Environment
 
 - [PyTorch >= 1.7](https://pytorch.org/)
