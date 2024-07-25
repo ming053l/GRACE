@@ -16,7 +16,7 @@ In the field of Deepfake detection, one particular issue lies with facial images
 
 This paper introduces a novel method for robust DeepFake video detection, harnessing the power of the proposed Graph-Regularized Attentive Convolutional Entanglement (GRACE) based on the graph convolutional network with graph Laplacian to address the aforementioned challenges.
 
-<img src=".\figures\GRACE.png" width="800"/>
+<img src=".\GRACE.png" width="800"/>
 
 ## Todo List
 - 💪 GRACE is already under major revision.
